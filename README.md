@@ -1,5 +1,7 @@
 # Awesome Codex Skin
 
+[English](README.en.md) | **中文**
+
 > 一个面向 OpenAI Codex Desktop 的皮肤、主题、主题制作工具与运行时项目精选。
 
 这里收录的是第三方开源项目，不代表 OpenAI 官方支持或安全背书。更换主题前，请先阅读项目的安装、还原和兼容性说明；涉及 CDP 或调试端口的工具尤其要只在本机可信环境中使用。
