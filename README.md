@@ -16,6 +16,11 @@
 | [Codex Styler](https://github.com/xuhuanstudio/codex-styler) — 可视化主题编辑器与皮肤创建器，提供主题库、伴侣和恢复入口。 | <a href="https://github.com/xuhuanstudio/codex-styler"><img src="assets/screenshots/codex-styler-themes.png" alt="Codex Styler 主题库实际界面" width="420"></a> |
 | [Codex AutoSkin](https://github.com/Finderchangchang/codex-autoskin) — 将图片转换为皮肤的本地化工作流，项目提供主题实际运行示例。 | <a href="https://github.com/Finderchangchang/codex-autoskin"><img src="assets/screenshots/codex-autoskin-aurora-veil.png" alt="Codex AutoSkin Aurora Veil 主题实际界面" width="420"></a> |
 | [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) — 面向 Codex 与 WorkBuddy 的可视化主题管理器，支持浏览、应用与恢复。 | <a href="https://github.com/CodeDrobe/desktop"><img src="assets/screenshots/codedrobe-desktop.png" alt="CodeDrobe 主题商店实际界面" width="420"></a> |
+| [Codex-NN](https://github.com/slovx2/Codex-NN) — 跨平台的 Codex Desktop 可视化主题管理器。 | <a href="https://github.com/slovx2/Codex-NN"><img src="assets/screenshots/codex-nn-home.jpg" alt="Codex-NN 主题管理器实际界面" width="420"></a> |
+| [codex-skin-switcher](https://github.com/bytefer/codex-skin-switcher) — 免费开源的跨平台主题/皮肤切换应用。 | <a href="https://github.com/bytefer/codex-skin-switcher"><img src="assets/screenshots/codex-skin-switcher.webp" alt="Codex Skin Switcher 实际界面" width="420"></a> |
+| [codex-theme-x](https://github.com/focuxdot/codex-theme-x) — 将图片转换为 Codex 主题的工具。 | <a href="https://github.com/focuxdot/codex-theme-x"><img src="assets/screenshots/codex-theme-x-home-sea.jpg" alt="codex-theme-x 海风主题实际界面" width="420"></a> |
+| [awesome-codex-theme](https://github.com/rwang23/awesome-codex-theme) — 无代码主题标准、注册表、校验器与画廊。 | <a href="https://github.com/rwang23/awesome-codex-theme"><img src="assets/screenshots/awesome-codex-theme-manager-windows.png" alt="Awesome Codex Theme 主题管理器实际界面" width="420"></a> |
+| [CodexThemes App](https://github.com/NBchitu/CodexThemes-App) — 主题发现、导入、切换、创建与恢复工具。 | <a href="https://github.com/NBchitu/CodexThemes-App"><img src="assets/screenshots/codex-themes-app-overview.png" alt="CodexThemes App 实际界面" width="420"></a> |
 
 ## 主题管理与换肤工具
 
