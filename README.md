@@ -34,6 +34,7 @@
 - [codex-skin](https://github.com/charmber/codex-skin) — 支持背景、配色与主题的 macOS 换肤工具。
 
 ## 创建器与自动化
+- [xuhuanstudio/codex-styler](https://github.com/xuhuanstudio/codex-styler) — 开源 Codex 主题编辑器与皮肤创建器，支持导入图片生成主题、可拖拽的 2D 伙伴，本地运行且完全可逆。
 
 - [codex-theme-creator](https://github.com/swording-k/codex-theme-creator) — 用一句话或参考图创建、安装并验证 macOS Codex Desktop 主题。
 - [codex-autoskin](https://github.com/hsir2411-dotcom/codex-autoskin) — 从图片自动生成定制皮肤，强调不修改应用核心文件。
@@ -42,6 +43,7 @@
 - [SkinDex / codex-qq-skin](https://github.com/angziii/codex-qq-skin) — 声明式皮肤包的校验、安装与本机回环 CDP 运行时。
 
 ## 运行时、规范与主题包
+- [CCDawn/Codex-Dream-Skin-Enhanced](https://github.com/CCDawn/Codex-Dream-Skin-Enhanced) — 给 Codex 桌面端换上主题、静态壁纸和动态壁纸的一键式管理器，支持 Windows 和 macOS，可恢复官方外观。
 
 - [CodeDrobe Core](https://github.com/CodeDrobe/core) — 可逆主题运行时，提供 CLI、应用适配器、CDP 注入与验证能力。
 - [CodeDrobe Skills](https://github.com/CodeDrobe/skills) — 从参考图到验证、修复、发布的主题 Agent Skills。
@@ -51,6 +53,7 @@
 - [codex-dream-skin-themes](https://github.com/aaronfang/codex-dream-skin-themes) — 可分享的 macOS Dream Skin 主题包。
 
 ## 更多目录与社区
+- [TIANQIAN1238/codex-skin-gallery](https://github.com/TIANQIAN1238/codex-skin-gallery) — 免费开源的 Codex Desktop 社区皮肤聚合站，收录 150+ 套皮肤并提供安装指引与来源署名。
 - [skindex](https://github.com/0xagata-prog/skindex) — Codex 主题与皮肤聚合目录，并提供独立 Theme Hub Skill。
 - [awesome-codex-themes](https://github.com/acvnace/awesome-codex-themes) — Codex 主题、皮肤、画廊与工具的另一份精选目录。
 - [CodexThemes App](https://github.com/NBchitu/CodexThemes-App) — 主题发现、导入、切换、创建与恢复工具。
