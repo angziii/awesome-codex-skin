@@ -7,6 +7,7 @@ const README_PATH = "README.md";
 
 const githubToken = process.env.GITHUB_TOKEN;
 const deepseekKey = process.env.DEEPSEEK_API_KEY;
+const currentRepository = process.env.GITHUB_REPOSITORY?.toLowerCase();
 
 if (!githubToken) throw new Error("GITHUB_TOKEN is required.");
 if (!deepseekKey) throw new Error("DEEPSEEK_API_KEY is required.");
@@ -83,7 +84,12 @@ async function main() {
   const repositories = new Map();
   for (const result of searchResults) {
     for (const repo of result.items ?? []) {
-      if (!repo.fork && !repo.archived && !existing.has(repo.full_name.toLowerCase())) {
+      if (
+        !repo.fork
+        && !repo.archived
+        && repo.full_name.toLowerCase() !== currentRepository
+        && !existing.has(repo.full_name.toLowerCase())
+      ) {
         repositories.set(repo.full_name, repo);
       }
     }
