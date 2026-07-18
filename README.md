@@ -44,6 +44,7 @@
 - [codex-dream-skin-themes](https://github.com/aaronfang/codex-dream-skin-themes) — 可分享的 macOS Dream Skin 主题包。
 
 ## 更多目录与社区
+- [angziii/awesome-codex-skin](https://github.com/angziii/awesome-codex-skin) — OpenAI Codex Desktop皮肤、主题、创建工具与运行时的精选目录，包含安装与还原说明。
 
 - [skindex](https://github.com/0xagata-prog/skindex) — Codex 主题与皮肤聚合目录，并提供独立 Theme Hub Skill。
 - [awesome-codex-themes](https://github.com/acvnace/awesome-codex-themes) — Codex 主题、皮肤、画廊与工具的另一份精选目录。
