@@ -23,6 +23,7 @@
 | [CodexThemes App](https://github.com/NBchitu/CodexThemes-App) — 主题发现、导入、切换、创建与恢复工具。 | <a href="https://github.com/NBchitu/CodexThemes-App"><img src="assets/screenshots/codex-themes-app-overview.png" alt="CodexThemes App 实际界面" width="420"></a> |
 
 ## 主题管理与换肤工具
+- [piperhex/codex-switch](https://github.com/piperhex/codex-switch) — 一款本地优先的 Tauri 2 桌面应用，用于登录、保存和切换多个 Codex / ChatGPT 账号，并支持通过 Dream Skin 进行换肤。
 - [houyuhang915-sudo/Codex-Skin-Manager](https://github.com/houyuhang915-sudo/Codex-Skin-Manager) — 跨平台的 Codex 主题管理器，支持主题切换、创建、导入和恢复原版，包含 macOS 和 Windows 版本，可通过对话创建主题。
 
 - [HeiGe Codex Skin Studio](https://github.com/HeiGeAi/heige-codex-skin-studio) — macOS / Windows 主题工作室：内置预设、图片取色、主题中心与还原。
