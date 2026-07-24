@@ -23,6 +23,7 @@
 | [CodexThemes App](https://github.com/NBchitu/CodexThemes-App) — 主题发现、导入、切换、创建与恢复工具。 | <a href="https://github.com/NBchitu/CodexThemes-App"><img src="assets/screenshots/codex-themes-app-overview.png" alt="CodexThemes App 实际界面" width="420"></a> |
 
 ## 主题管理与换肤工具
+- [TQSY114514/claude-code-dream-skin](https://github.com/TQSY114514/claude-code-dream-skin) — 通过 CDP 向 Claude Code 桌面端注入自定义主题，提供 14 款预设，不修改安装文件，支持备份恢复。
 - [piperhex/codex-switch](https://github.com/piperhex/codex-switch) — 一款本地优先的 Tauri 2 桌面应用，用于登录、保存和切换多个 Codex / ChatGPT 账号，并支持通过 Dream Skin 进行换肤。
 - [houyuhang915-sudo/Codex-Skin-Manager](https://github.com/houyuhang915-sudo/Codex-Skin-Manager) — 跨平台的 Codex 主题管理器，支持主题切换、创建、导入和恢复原版，包含 macOS 和 Windows 版本，可通过对话创建主题。
 
@@ -36,6 +37,7 @@
 - [codex-skin](https://github.com/charmber/codex-skin) — 支持背景、配色与主题的 macOS 换肤工具。
 
 ## 创建器与自动化
+- [jiezeng2004-design/XJTU-Codex-Theme](https://github.com/jiezeng2004-design/XJTU-Codex-Theme) — 为 Microsoft Store 版 Codex Desktop 提供无重启主题，包含西安交通大学预设、一键换肤 Skill 和无品牌模板。
 - [xuhuanstudio/codex-styler](https://github.com/xuhuanstudio/codex-styler) — 开源 Codex 主题编辑器与皮肤创建器，支持导入图片生成主题、可拖拽的 2D 伙伴，本地运行且完全可逆。
 
 - [codex-theme-creator](https://github.com/swording-k/codex-theme-creator) — 用一句话或参考图创建、安装并验证 macOS Codex Desktop 主题。
