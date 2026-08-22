@@ -50,6 +50,7 @@
 - [SkinDex / codex-qq-skin](https://github.com/angziii/codex-qq-skin) — 声明式皮肤包的校验、安装与本机回环 CDP 运行时。
 
 ## 运行时、规范与主题包
+- [Heng0128/AgentSkin](https://github.com/Heng0128/AgentSkin) — 通过 CDP 向 Electron AI 应用（含 ChatGPT 桌面版/Codex）注入主题与动态壁纸的运行时换肤工具，支持多主题与壁纸运行时。
 - [staro1314/codex-skin](https://github.com/staro1314/codex-skin) — 面向 OpenAI Codex Desktop 的外部主题与换肤工具，通过本地回环 CDP 注入受控 CSS 和装饰层，保留原生界面，支持主题包导入、切换、暂停、应用与完整恢复官方外观，提供 Windows 与 macOS 版本。
 - [CCDawn/Codex-Dream-Skin-Enhanced](https://github.com/CCDawn/Codex-Dream-Skin-Enhanced) — 给 Codex 桌面端换上主题、静态壁纸和动态壁纸的一键式管理器，支持 Windows 和 macOS，可恢复官方外观。
 
