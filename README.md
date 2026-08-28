@@ -23,6 +23,7 @@
 | [CodexThemes App](https://github.com/NBchitu/CodexThemes-App) — 主题发现、导入、切换、创建与恢复工具。 | <a href="https://github.com/NBchitu/CodexThemes-App"><img src="assets/screenshots/codex-themes-app-overview.png" alt="CodexThemes App 实际界面" width="420"></a> |
 
 ## 主题管理与换肤工具
+- [piperhex/codex-switch](https://github.com/piperhex/codex-switch) — 基于 Tauri 2 的 Codex/ChatGPT 多账号管理工作台，支持账号登录与切换、用量查看、第三方 Provider、本地代理、Token 分析及一键换肤，内置 300+ 主题预设并兼容 Codex-Dream-Skin。
 - [ousir0/osir-codex-manager](https://github.com/ousir0/osir-codex-manager) — Windows/macOS 上的 Codex 本地管理工具，支持安装、更新、配置与主题管理，可导入、预览、试穿、应用和恢复 .codexskin 皮肤，且不修改 Codex 安装文件。
 - [piperhex/codex-switch](https://github.com/piperhex/codex-switch) — 面向 Codex/ChatGPT 用户的多账号管理工作台，内置 300+ 套主题预设并兼容 Codex-Dream-Skin，支持一键换肤、自定义背景与外观恢复。
 - [Jxinyu/codex-dream-skin-windows](https://github.com/Jxinyu/codex-dream-skin-windows) — Windows平台上开源的非官方Codex桌面应用皮肤启动器，内置10套主题，支持自动深浅模式切换，通过CDP注入样式，不修改应用文件。
