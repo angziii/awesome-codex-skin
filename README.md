@@ -23,6 +23,7 @@
 | [CodexThemes App](https://github.com/NBchitu/CodexThemes-App) — 主题发现、导入、切换、创建与恢复工具。 | <a href="https://github.com/NBchitu/CodexThemes-App"><img src="assets/screenshots/codex-themes-app-overview.png" alt="CodexThemes App 实际界面" width="420"></a> |
 
 ## 主题管理与换肤工具
+- [piperhex/codex-switch](https://github.com/piperhex/codex-switch) — 面向 Codex/ChatGPT 的多账号管理工作台，内置 300+ 套 Dream Skin 主题预设，支持一键应用、自定义背景、外观调整与恢复，兼容 Fei-Away/Codex-Dream-Skin。
 - [piperhex/codex-switch](https://github.com/piperhex/codex-switch) — 基于 Tauri 2 的 Codex/ChatGPT 多账号管理工作台，支持账号登录与切换、用量查看、第三方 Provider、本地代理、Token 分析及一键换肤，内置 300+ 主题预设并兼容 Codex-Dream-Skin。
 - [ousir0/osir-codex-manager](https://github.com/ousir0/osir-codex-manager) — Windows/macOS 上的 Codex 本地管理工具，支持安装、更新、配置与主题管理，可导入、预览、试穿、应用和恢复 .codexskin 皮肤，且不修改 Codex 安装文件。
 - [piperhex/codex-switch](https://github.com/piperhex/codex-switch) — 面向 Codex/ChatGPT 用户的多账号管理工作台，内置 300+ 套主题预设并兼容 Codex-Dream-Skin，支持一键换肤、自定义背景与外观恢复。
@@ -51,6 +52,7 @@
 - [SkinDex / codex-qq-skin](https://github.com/angziii/codex-qq-skin) — 声明式皮肤包的校验、安装与本机回环 CDP 运行时。
 
 ## 运行时、规范与主题包
+- [changganqi/windows-codex-dream-skin](https://github.com/changganqi/windows-codex-dream-skin) — 面向 Windows 10/11 Microsoft Store 版 Codex Desktop 的非官方换肤工具，含 CDP 参数启动、主题中心、Miku 视觉、多套内置主题及持久化换肤，并提供 verify.bat 与 restore.bat 恢复脚本。
 - [Heng0128/AgentSkin](https://github.com/Heng0128/AgentSkin) — 通过 CDP 向 Electron AI 应用（含 ChatGPT 桌面版/Codex）注入主题与动态壁纸的运行时换肤工具，支持多主题与壁纸运行时。
 - [staro1314/codex-skin](https://github.com/staro1314/codex-skin) — 面向 OpenAI Codex Desktop 的外部主题与换肤工具，通过本地回环 CDP 注入受控 CSS 和装饰层，保留原生界面，支持主题包导入、切换、暂停、应用与完整恢复官方外观，提供 Windows 与 macOS 版本。
 - [CCDawn/Codex-Dream-Skin-Enhanced](https://github.com/CCDawn/Codex-Dream-Skin-Enhanced) — 给 Codex 桌面端换上主题、静态壁纸和动态壁纸的一键式管理器，支持 Windows 和 macOS，可恢复官方外观。
