@@ -23,6 +23,7 @@
 | [CodexThemes App](https://github.com/NBchitu/CodexThemes-App) — 主题发现、导入、切换、创建与恢复工具。 | <a href="https://github.com/NBchitu/CodexThemes-App"><img src="assets/screenshots/codex-themes-app-overview.png" alt="CodexThemes App 实际界面" width="420"></a> |
 
 ## 主题管理与换肤工具
+- [piperhex/remoteai](https://github.com/piperhex/remoteai) — 面向 Codex 的图形化工作台，提供账号管理、本地代理与一键换肤，内置 300+ 套主题预设并兼容 Codex-Dream-Skin。
 - [piperhex/codex-switch](https://github.com/piperhex/codex-switch) — Codex Switch 是面向 Codex 用户的桌面工作台，内置 300 多套 Dream Skin 主题预设，支持一键换肤、自定义背景与外观恢复，并兼容 Fei-Away/Codex-Dream-Skin 主题，采用 Apache-2.0 许可发布。
 - [Wangnov/Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager) — 官方 Codex 桌面应用的跨平台安装、增量更新与干净卸载管理器，提供国内可达的镜像自更新，基于 Tauri 与 Rust 构建，采用 MIT 许可证。
 - [piperhex/codex-switch](https://github.com/piperhex/codex-switch) — Codex Switch 是面向 Codex/ChatGPT 用户的桌面工作台，提供多账号管理与切换、Codex GUI、第三方 Provider、本地代理、Token 分析，并内置 300+ 套 Dream Skin 主题，支持一键换肤、自定义外观和恢复。
