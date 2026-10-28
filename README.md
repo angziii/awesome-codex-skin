@@ -58,6 +58,7 @@
 - [SkinDex / codex-qq-skin](https://github.com/angziii/codex-qq-skin) — 声明式皮肤包的校验、安装与本机回环 CDP 运行时。
 
 ## 运行时、规范与主题包
+- [arjunpundeer7/diorama](https://github.com/arjunpundeer7/diorama) — 为 Cursor、VS Code 和 Codex 桌面应用提供动态背景与主题皮肤，支持启动 Codex 时应用主题，并提供恢复命令。
 - [changganqi/windows-codex-dream-skin](https://github.com/changganqi/windows-codex-dream-skin) — 面向 Windows 10/11 Microsoft Store 版 Codex Desktop 的非官方换肤工具，含 CDP 参数启动、主题中心、Miku 视觉、多套内置主题及持久化换肤，并提供 verify.bat 与 restore.bat 恢复脚本。
 - [Heng0128/AgentSkin](https://github.com/Heng0128/AgentSkin) — 通过 CDP 向 Electron AI 应用（含 ChatGPT 桌面版/Codex）注入主题与动态壁纸的运行时换肤工具，支持多主题与壁纸运行时。
 - [staro1314/codex-skin](https://github.com/staro1314/codex-skin) — 面向 OpenAI Codex Desktop 的外部主题与换肤工具，通过本地回环 CDP 注入受控 CSS 和装饰层，保留原生界面，支持主题包导入、切换、暂停、应用与完整恢复官方外观，提供 Windows 与 macOS 版本。
