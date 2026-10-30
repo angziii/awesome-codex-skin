@@ -23,6 +23,7 @@
 | [CodexThemes App](https://github.com/NBchitu/CodexThemes-App) — 主题发现、导入、切换、创建与恢复工具。 | <a href="https://github.com/NBchitu/CodexThemes-App"><img src="assets/screenshots/codex-themes-app-overview.png" alt="CodexThemes App 实际界面" width="420"></a> |
 
 ## 主题管理与换肤工具
+- [HunDunJie/TibosGoodIdea](https://github.com/HunDunJie/TibosGoodIdea) — Windows 版 Codex 桌面皮肤与底栏工具，显示剩余额度、刷新倒计时和可用重置，并支持定时发送与音乐提醒；GPL-3.0 开源，提供解压即用的安装与退出卸载说明。
 - [piperhex/remoteai](https://github.com/piperhex/remoteai) — 面向 Codex 的图形化工作台，内置 300+ 套 Dream Skin 主题预设，支持一键换肤、自定义背景与恢复默认外观，并兼容 Codex-Dream-Skin 皮肤格式。
 - [piperhex/remoteai](https://github.com/piperhex/remoteai) — Remote AI 是面向 Codex 的图形化工作台，内置 300 多套主题预设，支持一键应用皮肤、自定义背景和恢复默认外观，并兼容 Codex-Dream-Skin 主题。
 - [piperhex/remoteai](https://github.com/piperhex/remoteai) — 面向 Codex 的图形化工作台，提供账号管理、本地代理与一键换肤，内置 300+ 套主题预设并兼容 Codex-Dream-Skin。
